@@ -1,0 +1,175 @@
+﻿body{
+	background-color:#D2F5FF;
+	margin:0px;
+}
+
+a{
+	text-decoration:none;
+}
+h2{
+	margin:0px;
+}
+header{
+	display:block;
+	width:1345px;
+	min-height:250px;
+}
+.top-header{
+	width:70%;
+	height:50px;
+	background:url("images/mech.png") no-repeat;
+}
+.sing{
+	margin-left:-150px;
+	float:left;
+}
+.links{
+	float:right;
+	margin-right:-150px;
+	width:300px;
+	height:50px;
+	background:url("images/butt.png") no-repeat;
+}
+.links a{
+	margin:3px;
+}
+.links img{
+	margin-top:5px;
+}
+
+.border{
+	height:7px;
+	width:1020px;
+	background:url("images/bord1.png") repeat-x;
+}
+
+.bottom-header{
+	width:1020px;
+	height:200px;
+	background:url("images/hb.png") no-repeat;
+}
+
+.bottom-header img{
+	padding-top:3px;
+	display:block;
+}
+
+content{
+	display:block;
+	width:1345px;
+	min-height:300px;
+}
+.info-panel{
+	background-color:#569ddf;
+	width:1020px;
+	height:215px;
+}
+
+.title-panel{
+	float:left;
+	margin-left:20px;
+	margin-top:5px;
+	margin-bottom:5px;
+	font-family:Times New Roman, serif;
+	font-size:18px;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+.kartinki-panel{
+	float:left;
+	background-color:#FFFFFF;
+	width:1020px;
+	height:150px;
+}
+
+.kart{
+	width:250px;
+	height:140px;
+	margin-top:2px;
+	opacity:0.85;
+}
+.kart:hover{
+	cursor:pointer;
+	opacity:1;
+}
+.forum{
+	background-color:#ddedfd;
+	height:150px;
+	width:1020px;
+}
+.title-forum{
+	width:1020px;
+	height:50px;
+	float:left;
+	background-color:#a6d2f5;
+	border-bottom:2px solid;
+	border-bottom-color:#FFFFFF;
+}
+.title-forum p{
+	margin-left:20px;
+	line-height:10px;
+	font-family:Times New Roman, serif;
+	font-size:18px;
+	color:#505050;
+	font-weight:bold;
+	float:left;
+}
+
+#q{
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#w{
+	color:blue;
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+	width:550px;
+	text-align:left;
+	padding-bottom:3px;
+	border-bottom:1px solid;
+	border-bottom-color:black;
+}
+#e{
+	float:left;
+	margin-left:20px;
+	width:550px;
+	text-align:left;
+	border-top:1px solid;
+	margin-bottom:0px;
+	margin-top:2px;
+	padding-top:5px;
+	margin-right:15px;
+}
+.asd {
+	display:block;
+	float:left;
+	width:70px;
+	margin-top:-10px;
+}
+.asf{
+	font-size:15px;
+	text-align:left;
+	display:block;
+	float:right;
+	width:200px;
+	margin-top:-35px;
+}
+
+footer{
+	display:block;
+	width:1345px;
+	min-height:100px;
+}
+.qa{
+	text-decoration:underline;
+	margin-left:20px;
+	margin-right:20px;
+	color:white;
+}
+.text{
+	margin-top:5px;
+	margin-bottom:0px;
+}
